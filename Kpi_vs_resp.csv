@@ -1,4 +1,4 @@
-Date,Calls per Minute,CPU_%Busy,Memory|Free %,Memory_Used %,Network_Incoming packets/sec,Network_Outgoing packets/sec,Network_Incoming KB/sec,Network_Outgoing KB/sec,Disks_Reads/sec,Disks_Writes/sec,Disks_KB read/sec,Disks_KB written/sec,Average Response Time (ms)
+Date,CallsPerMinute,CPUBusy,MemoryFree,MemoryUsed,NetworkIncomingPackets,NetworkOutgoingPpackets,NetworkIncomingKB,NetworkOutgoingKB,DisksReads,DisksWrites,DisksKBread,DisksKBwritten,AverageResponseTime
 11/6/19 21:50,48,7,43,57,8,9,1,5,0,0,0,3,12
 11/6/19 21:51,55,24,45,55,12,13,4,6,0,2,0,7,24
 11/6/19 21:52,66,33,44,56,13,13,3,5,0,3,0,12,28
